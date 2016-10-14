@@ -1,0 +1,8 @@
+id:1
+name:Bat
+lifePoints:15
+strength:3
+intelligence:1
+strengthRes:2
+intellRes:5
+weaponId:2

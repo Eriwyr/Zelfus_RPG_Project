@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['fight',['Fight',['../structFight.html',1,'Fight'],['../structFightSdl.html#a797af8fe0eec6b768ae64aa5fac37c58',1,'FightSdl::fight()'],['../structMonsterRpg.html#a992f90bc2d44ae74bebfc111b2907f30',1,'MonsterRpg::fight()'],['../README_8txt.html#a188fda4d01c04d56b059e9d62d1f511b',1,'Fight():&#160;README.txt']]],
+  ['fight_2ec',['Fight.c',['../Fight_8c.html',1,'']]],
+  ['fight_2eh',['Fight.h',['../Fight_8h.html',1,'']]],
+  ['fightcreate',['fightCreate',['../Fight_8c.html#ab1ce794200ec00562d90b9afd0447a6d',1,'fightCreate():&#160;Fight.c'],['../Fight_8h.html#ab1ce794200ec00562d90b9afd0447a6d',1,'fightCreate():&#160;Fight.c']]],
+  ['fightcreatetxt',['fightCreateTxt',['../fightTxt_8c.html#a575cb55f4e1b0f4d6c384a57a7ee0764',1,'fightCreateTxt(char *fightName):&#160;fightTxt.c'],['../fightTxt_8h.html#a575cb55f4e1b0f4d6c384a57a7ee0764',1,'fightCreateTxt(char *fightName):&#160;fightTxt.c']]],
+  ['fightdestroy',['fightDestroy',['../Fight_8c.html#a9f0adb11cf5b08cd6d856f2d3690e051',1,'fightDestroy(Fight **fight):&#160;Fight.c'],['../Fight_8h.html#a9f0adb11cf5b08cd6d856f2d3690e051',1,'fightDestroy(Fight **fight):&#160;Fight.c']]],
+  ['fightfree',['fightFree',['../Fight_8c.html#acb3cbcc4a3fd6125de2ced4c5f79e7d1',1,'fightFree(Fight *fight):&#160;Fight.c'],['../Fight_8h.html#acb3cbcc4a3fd6125de2ced4c5f79e7d1',1,'fightFree(Fight *fight):&#160;Fight.c']]],
+  ['fightfromrpg',['fightFromRpg',['../rpgSdl_8c.html#a8665ae7235cdcd3dcd4d46296493171f',1,'fightFromRpg(SDL_Window *screen, SDL_Renderer *renderer, RpgSdl *rpgSdl, Fight *fight, int id):&#160;rpgSdl.c'],['../rpgSdl_8h.html#a8665ae7235cdcd3dcd4d46296493171f',1,'fightFromRpg(SDL_Window *screen, SDL_Renderer *renderer, RpgSdl *rpgSdl, Fight *fight, int id):&#160;rpgSdl.c']]],
+  ['fightinit',['fightInit',['../Fight_8c.html#a4183be9cde71bbaf028264887b3d3b2e',1,'fightInit(Fight *fight):&#160;Fight.c'],['../Fight_8h.html#a4183be9cde71bbaf028264887b3d3b2e',1,'fightInit(Fight *fight):&#160;Fight.c']]],
+  ['fightsdl',['FightSdl',['../structFightSdl.html',1,'']]],
+  ['fightsdl_2ec',['fightSdl.c',['../fightSdl_8c.html',1,'']]],
+  ['fightsdl_2eh',['fightSdl.h',['../fightSdl_8h.html',1,'']]],
+  ['fightsdlfree',['fightSdlFree',['../fightSdl_8c.html#adda9f9bfa97b97adf74eef60f4ee512e',1,'fightSdlFree(FightSdl *fightSdl):&#160;fightSdl.c'],['../fightSdl_8h.html#adda9f9bfa97b97adf74eef60f4ee512e',1,'fightSdlFree(FightSdl *fightSdl):&#160;fightSdl.c']]],
+  ['fightsdlinit',['fightSdlInit',['../fightSdl_8c.html#ab0d8be01ea25569875eeb4580cf439e8',1,'fightSdlInit(FightSdl *fightSdl, SDL_Window *screen, SDL_Renderer *renderer, Fight *fight):&#160;fightSdl.c'],['../fightSdl_8h.html#ab0d8be01ea25569875eeb4580cf439e8',1,'fightSdlInit(FightSdl *fightSdl, SDL_Window *screen, SDL_Renderer *renderer, Fight *fight):&#160;fightSdl.c']]],
+  ['fighttest',['fightTest',['../Fight_8c.html#a0bfa7ad3da3575b233bc52a626696832',1,'fightTest():&#160;Fight.c'],['../Fight_8h.html#a0bfa7ad3da3575b233bc52a626696832',1,'fightTest():&#160;Fight.c']]],
+  ['fighttxt_2ec',['fightTxt.c',['../fightTxt_8c.html',1,'']]],
+  ['fighttxt_2eh',['fightTxt.h',['../fightTxt_8h.html',1,'']]],
+  ['file_2ec',['file.c',['../file_8c.html',1,'']]],
+  ['file_2eh',['file.h',['../file_8h.html',1,'']]],
+  ['font',['font',['../structDialogSdl.html#a285e6427aaaac93374dd1f7466f1937b',1,'DialogSdl::font()'],['../structHudSdl.html#ab95eb94c9cf8449f5a1cf28a832bde75',1,'HudSdl::font()'],['../structQuestDiarySdl.html#aa21b5105740a133b0d6b4011025c7cd3',1,'QuestDiarySdl::font()'],['../structRewardSdl.html#a1b5bdc5adac21a400d6ba847c558e2b3',1,'RewardSdl::font()']]],
+  ['framemax',['frameMax',['../structCharacSdl.html#aca6e5259888f6cec83f6fbdde2ec311a',1,'CharacSdl::frameMax()'],['../structMonsterSdl.html#a0a7387905eefb0fc3456d0adfede3cab',1,'MonsterSdl::frameMax()'],['../structNpcSdl.html#a4189185ba3749dd09e0e893c65e953bb',1,'NpcSdl::frameMax()'],['../structSpellSdl.html#a0d891c6ee869b500031615b6ff50cb23',1,'SpellSdl::frameMax()']]],
+  ['framenumber',['frameNumber',['../structCharacSdl.html#a5b6228b275e2b7714b6b5b7ccfd2c395',1,'CharacSdl::frameNumber()'],['../structMonsterSdl.html#a5c67697e93235ea6ca4396574033a0de',1,'MonsterSdl::frameNumber()'],['../structNpcSdl.html#a9af2d535ca68f37082255046dc105eb3',1,'NpcSdl::frameNumber()'],['../structSpellSdl.html#a712d97377532e2d9d4d11b160fe39a26',1,'SpellSdl::frameNumber()']]],
+  ['frametimer',['frameTimer',['../structCharacSdl.html#a320f65a175b2a8d2574f68b667d15f95',1,'CharacSdl::frameTimer()'],['../structMonsterSdl.html#aa02d8390f1c7ffd898fd99b759954c56',1,'MonsterSdl::frameTimer()'],['../structNpcSdl.html#af2def70f5213e833a04ec188e189064e',1,'NpcSdl::frameTimer()'],['../structSpellSdl.html#abae2309149ad03023830b74fe929227d',1,'SpellSdl::frameTimer()']]]
+];

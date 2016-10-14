@@ -1,0 +1,14 @@
+id : 1
+
+#mapFile : 1
+
+#nbMstr : 2
+idM:1
+idM:1
+
+x:0  y:5
+
+mpPlayer:3
+apPlayer:3
+mpEnnemy:3
+apEnnemy:3

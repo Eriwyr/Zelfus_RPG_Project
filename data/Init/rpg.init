@@ -1,0 +1,15 @@
+#mapFile : 2
+
+#nbNPC : 1
+idN:1
+x:2  y:5
+
+#nbMstr : 2
+idM:1
+x:4  y:5
+idM:2
+x:7  y:2
+
+#nbDoors : 2
+idD:1
+idD:2

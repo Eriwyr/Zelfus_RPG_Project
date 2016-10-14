@@ -1,0 +1,15 @@
+#nbObj : 1
+#nbMstr : 1
+
+name:Quest of the mighty
+id:1
+xp:15
+money:16
+isAccomplished:0
+
+Object:
+id:1
+name:Ring of shining
+type:Magical ring
+RoomId:3
+x:20 y:7
