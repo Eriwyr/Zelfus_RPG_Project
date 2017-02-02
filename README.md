@@ -1,9 +1,10 @@
 
 # Zelfus
 
-Zelfus is a RPG offering two game phases. The [normal](#rpg) mode and the [fight](#fight)
+Zelfus is a RPG offering two game phases. The [normal](#rpg) mode and the [fight](#fight) mode.
 You will have to complete all sorts of quests to end this game.
-Dungeon and monsters will wait for you, so prepare yourself.
+Dungeon and monsters will wait for you, so prepare yourself.  
+You can find at the bottom a list of all of Zelfus's [features](#features).
 
 ## Install
 The game uses the following librairies :
