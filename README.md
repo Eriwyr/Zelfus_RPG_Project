@@ -1,7 +1,7 @@
 
 # Zelfus
 
-Zelfus is a RPG offering two game phases. The [normal](#RPG) mode and the [fight](#fight)
+Zelfus is a RPG offering two game phases. The [normal](#rpg) mode and the [fight](#fight)
 You will have to complete all sorts of quests to end this game.
 Dungeon and monsters will wait for you, so prepare yourself.
 
